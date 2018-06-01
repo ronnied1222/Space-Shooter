@@ -59,6 +59,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Player.cs" />
     <Compile Include="Assets\Scripts\Splash.cs" />
     <None Include="Assets\epyphany\ReadMe.txt" />
     <Reference Include="UnityEditor.StandardEvents">
